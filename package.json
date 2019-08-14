@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "tsc": "tsc",
-    "tslint": "tslint --config tslint.json --project tsconfig.json",
+    "tslint": "tslint --config tslint.json --format stylish --project tsconfig.json",
     "verify": "npm run tsc && npm run tslint & npm run webpack",
     "watch": "chokidar \"src/**/*.ts\" -i \"src/**/*.d.ts\" -c \"npm run webpack\"",
     "webpack": "webpack"
@@ -32,13 +32,14 @@
   },
   "homepage": "https://github.com/joshuakgoldberg/emojisplosion#readme",
   "devDependencies": {
-    "chokidar": "^2.0.4",
-    "requirejs": "2.3.5",
+    "chokidar": "^3.0.2",
+    "chokidar-cli": "^2.0.0",
+    "requirejs": "2.3.6",
     "run-p": "0.0.0",
-    "ts-loader": "^4.4.2",
-    "tslint": "5.11.0",
-    "typescript": "^2.9.2",
-    "webpack": "^4.16.2",
-    "webpack-cli": "^3.1.0"
+    "ts-loader": "^6.0.4",
+    "tslint": "5.18.0",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
   }
 }
