@@ -1,0 +1,156 @@
+{
+  "badgeTemplate": "\t<a href=\"#contributors\" target=\"_blank\"><img alt=\"👪 All Contributors: <%= contributors.length %>\" src=\"https://img.shields.io/badge/%F0%9F%91%AA_all_contributors-<%= contributors.length %>-21bb42.svg\" /></a>",
+  "commit": false,
+  "commitConvention": "angular",
+  "commitType": "docs",
+  "contributors": [
+    {
+      "avatar_url": "https://avatars.githubusercontent.com/u/3335181?v=4",
+      "contributions": [
+        "code",
+        "maintenance",
+        "bug",
+        "tool",
+        "ideas",
+        "doc"
+      ],
+      "login": "JoshuaKGoldberg",
+      "name": "Josh Goldberg",
+      "profile": "http://www.joshuakgoldberg.com"
+    },
+    {
+      "login": "helenamerk",
+      "name": "helenamerk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7145275?v=4",
+      "profile": "https://github.com/helenamerk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lmammino",
+      "name": "Luciano Mammino",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205629?v=4",
+      "profile": "https://loige.co",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "ian-craig",
+      "name": "Ian Craig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2031632?v=4",
+      "profile": "https://github.com/ian-craig",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "joemcil",
+      "name": "joemcil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126059816?v=4",
+      "profile": "https://github.com/joemcil",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "cgradeff",
+      "name": "Carly Gradeff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64032507?v=4",
+      "profile": "https://cgradeff.github.io/carly-gradeff/",
+      "contributions": [
+        "design",
+        "bug",
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Esemplaret1",
+      "name": "Thomas Esemplare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34987417?v=4",
+      "profile": "https://github.com/Esemplaret1",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jrachelr",
+      "name": "Rachel Johnson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101299667?v=4",
+      "profile": "https://www.racheldev.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "danielroe",
+      "name": "Daniel Roe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28706372?v=4",
+      "profile": "https://roe.dev",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "brawaru",
+      "name": "Sasha Sorokin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10401817?v=4",
+      "profile": "https://github.com/brawaru",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "princeyadav05",
+      "name": "Prince Yadav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22894003?v=4",
+      "profile": "https://github.com/Princeyadav05",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "delucis",
+      "name": "Chris Swithinbank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/357379?v=4",
+      "profile": "http://chrisswithinbank.net/",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "anjali1102",
+      "name": "Anjali Chauhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56559378?v=4",
+      "profile": "https://github.com/anjali1102",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "mikaleb",
+      "name": "Mikaleb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71285085?v=4",
+      "profile": "http://mikaleb.com",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "projectName": "emoji-blast",
+  "projectOwner": "JoshuaKGoldberg",
+  "repoHost": "https://github.com",
+  "repoType": "github"
+}

@@ -1,6 +1,0 @@
-*.test.*
-*.ts
-!*.d.ts
-node_modules/
-npm-debug.log
-test/

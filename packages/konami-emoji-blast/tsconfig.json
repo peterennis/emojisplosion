@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"outDir": "lib",
+		"rootDir": "src"
+	},
+	"extends": "../../tsconfig.base.json",
+	"include": ["src"],
+	"references": [{ "path": "../emoji-blast" }]
+}
